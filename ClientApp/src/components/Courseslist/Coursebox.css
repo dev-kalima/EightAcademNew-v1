@@ -1,0 +1,89 @@
+.maindesign{
+    /* display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 3fr));
+   grid-column-gap: 6px;
+   grid-row-gap:6px; */
+   
+
+    padding: 0px;
+   
+ 
+}
+/* #firstsbox{
+    border-bottom: none;
+    height: 120px;
+    display: none;
+} */
+.sbox{
+    display: flex;
+    width: 95%;
+    /* height: 60px; */
+    padding: 23px 8%;
+    margin:0px auto;
+
+     
+   
+    background-color:#f4f4f4;
+    /* backdrop-filter: blur(10px); */
+    border-bottom: 1px solid #e1e2e3;
+    /* border-radius: 7px; */
+    text-align: left;
+    justify-content: space-between;
+
+
+
+  
+
+}
+.sbox i{
+    font-size:x-small;
+    
+
+}
+.sbox h4{
+    display: inline-block;
+}
+.subicon{
+    width: 30px;
+    height: 30px;
+    /* padding-right: 50px; */
+  
+}
+.subicon img{
+    width: 35px;
+    height: 35px;
+}
+.subtitle{
+    width: 70%;
+    
+}
+.subtitle span{
+    cursor: pointer;
+}
+/* .arro{
+
+} */
+@media screen and (max-width:620px){
+    /* .maindesign{
+        margin-top: 500px;
+    } */
+  
+    .subicon{
+        width: 30px;
+        height: 30px;
+        padding-right: 50px;
+    }
+    #sbox{
+      
+        width: 100%;
+        padding: 5px 8%;
+        
+        /* height: 60px; */
+    }
+    .subicon img{
+        width: 30px;
+        height: 30px;
+    }
+
+
+}

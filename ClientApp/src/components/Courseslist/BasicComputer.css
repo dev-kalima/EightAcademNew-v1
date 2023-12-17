@@ -1,0 +1,146 @@
+.Bmain{
+    
+    text-align: center;
+    
+    padding-top: 70px;
+
+       
+   }
+   
+.Accordionmainbox{
+    width: 95%;
+   
+    margin: auto;
+    text-align: left !important;
+  
+}
+
+.Accordionmainbox li{
+    text-align: left;
+   
+}
+#panel1bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+  
+    
+   
+
+}
+
+
+#panel2bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel3bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel4bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel5bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel6bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel7bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+  
+}
+#panel8bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+#panel9bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+#panel10bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel11bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+#panel12bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel13bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel14bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+#panel15bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel16bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+#panel17bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+
+#panel18bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+   
+}
+#panel19bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+    
+}
+#panel20bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+  
+}
+#panel21bh-header{
+    background-color: #f2f2f2;
+    height: 60px;
+  
+}
+h4{
+    display: inline-block;
+   
+    font-weight: 500;
+}
+
+   @media screen and (max-width:620px){
+
+   
+    .Bmain{
+        
+        padding-top: 80px;
+    }
+}

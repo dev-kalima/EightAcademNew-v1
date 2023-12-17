@@ -1,0 +1,21 @@
+.herosection{
+   
+    margin:115px auto 10px auto;
+    width: 95%;
+    /* border: 2px solid blue; */
+    border-radius: 7px;
+    
+}
+.herosection img{
+    width: 100%;
+    border-radius: 7px;
+
+}
+
+@media screen and (max-width:400px) {
+
+    .herosection{
+        display: none;
+    }
+    
+}

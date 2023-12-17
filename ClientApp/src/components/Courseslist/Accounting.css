@@ -1,0 +1,43 @@
+.Emain{
+    
+    text-align: center;
+    
+    padding-top: 70px;
+
+       
+       
+   }
+
+.accdetails{
+padding: 10px 0px 10px 70px;
+
+   
+   
+}
+
+.accdetails li{
+    padding-top: 4px;
+    /* width: 5px; */
+    
+    
+}
+
+/* .ewrap{
+    display: inline;
+} */
+ 
+   @media screen and (max-width:620px){
+
+   
+        
+    .Emain{
+        
+        padding-top: 80px;
+    }
+    .accdetails{
+        padding: 10px 0px 10px 50px;
+        
+           
+           
+        }
+}

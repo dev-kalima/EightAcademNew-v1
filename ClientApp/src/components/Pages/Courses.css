@@ -1,0 +1,69 @@
+.courses{
+    text-align: center;
+    
+    padding-top: 70px;
+ 
+
+ 
+    /* height: 200vh; */
+    /* background: rgb(214,214,214);
+    background: linear-gradient(90deg, rgba(214,214,214,1) 0%, rgba(224,224,223,1) 35%, rgba(214,214,214,1) 100%);*/
+    /* background: rgb(19,35,61);
+background: linear-gradient(90deg, rgba(19,35,61,0.7035189075630253) 0%, rgba(31,43,19,0.5326505602240896) 25%, rgba(196,143,1,0.6194852941176471) 46%, rgba(227,128,96,0.7483368347338936) 72%, rgba(255,193,4,0.6895133053221288) 100%);
+backdrop-filter: blur(10px); */
+}
+.childsbox{
+    border: 1px solid red;
+    height: 100%;
+}
+.childsbox img{
+    width: 100%;
+    height: 100%;
+}
+.Scontact{
+    width: 95%;
+    margin:15px auto 20px auto;
+    height: 300px;
+    padding: 20px 10px;
+    background-color: #f2f2f2;
+    box-shadow: 0 27px 20px -15px rgba(8, 114, 163, 0.247);
+
+border-radius: 7px;
+
+
+}
+
+.coursebox{
+   
+
+    /* background-color: rgb(221, 31, 31);
+    box-shadow: 0 5px rgb(0, 0, 0); */
+    width: 95%;
+    height: 400px;
+    margin: auto;
+
+
+    
+
+  
+      
+      
+
+    
+}
+@media screen and (max-width:700px){
+    .courses{
+        text-align: center;
+        
+        padding-top: 80px;
+
+    }
+    .Scontact{
+      
+        margin:25px auto 20px auto;
+        /* background-image: url('./courses.png');
+background-size: cover; */
+
+
+    }
+}

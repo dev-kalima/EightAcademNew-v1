@@ -1,0 +1,19 @@
+.CDmain{
+    
+    text-align: center;
+    
+    padding-top: 70px;
+
+    
+    
+}
+
+
+@media screen and (max-width:620px){
+
+   
+    .CDmain{
+        
+        padding-top: 80px;
+    }
+}
