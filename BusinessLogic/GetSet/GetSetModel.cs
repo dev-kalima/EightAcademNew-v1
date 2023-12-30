@@ -25,6 +25,9 @@ namespace EightAcademNew.BusinessLogic.GetSet
                 CreatedAt = DateTime.Now,
             };
         }
+
+
+
         public bool SendMailBySmtp(string from, string subject, string[] cclist, string body, IFormFile Attachment)
         {
             using (MailMessage mailMessage = new MailMessage(from, "dev.mdkalim85@gmail.com"))
